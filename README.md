@@ -8,7 +8,7 @@ Je m'intéresse à la conception d'applications, à la gestion des données et �
 
 **🎓 MSc EPITECH Nancy (promotion 2028)** · **🔎 Recherche d'alternance en informatique dans le Grand Est / Luxembourg**
 
-<a href="https://www.linkedin.com/in/TON-PROFIL-LINKEDIN/">
+<a href="https://www.linkedin.com/in/kilian-bourdon/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
