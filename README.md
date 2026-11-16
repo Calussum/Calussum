@@ -6,9 +6,11 @@
 
 Je m'intéresse à la conception d'applications, à la gestion des données et à la sécurité des systèmes informatiques. J'aime travailler sur des projets concrets, de la réflexion sur l'architecture jusqu'aux tests et à la mise en œuvre, en intégrant les bonnes pratiques de sécurité dès les premières étapes du développement.
 
-**🎓 MSc EPITECH Nancy (promotion 2028)** · **🔎 Recherche d'alternance en informatique**
+**🎓 MSc EPITECH Nancy (promotion 2028)** · **🔎 Recherche d'alternance en informatique dans le Grand Est / Luxembourg**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Calussum-181717?style=for-the-badge&logo=github)](https://github.com/Calussum)
+<a href="https://www.linkedin.com/in/TON-PROFIL-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
