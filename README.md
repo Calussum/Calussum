@@ -1,94 +1,132 @@
- <div align="center">
+<div align="center">
 
-# Salut, moi c'est Kilian 👋
+# 👋 Bonjour, moi c'est Kilian !
+### 💻 Étudiant MSc à EPITECH Nancy | Bac+5 
+*Développeur Backend | Base de données | Cybersécurité | Systèmes & Réseaux*
 
-### Étudiant en MSc à EPITECH Nancy | Développement logiciel, Cybersécurité & Cloud
+**🔎 À la recherche d'une alternance de 12 à 24 mois en cybersécurité, développement logiciel** <br>
+📍 Thionville | Metz | Nancy | Luxembourg 
 
-Je m'intéresse à la conception d'applications, à la gestion des données et à la sécurité des systèmes informatiques. J'aime travailler sur des projets concrets, de la réflexion sur l'architecture jusqu'aux tests et à la mise en œuvre, en intégrant les bonnes pratiques de sécurité dès les premières étapes du développement.
-
-**🎓 MSc EPITECH Nancy (promotion 2028)** · **🔎 Recherche d'alternance en informatique dans le Grand Est / Luxembourg**
-
-<a href="https://www.linkedin.com/in/kilian-bourdon/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kilian-bourdon/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
----
 
-## 👨‍💻 À propos
 
-Après une **licence en informatique à l'Université de Toulon**, je poursuis mes études en master **MSc à EPITECH Nancy**, avec une spécialisation orientée **cybersécurité** et un intérêt particulier pour les **systèmes et réseaux**, les **bases de données** et le **développement backend**.
+## 👨‍💻 À propos de moi
 
-Je travaille principalement avec **Python, C, C++ et SQL**, dans des environnements **Linux et Windows**. Mes projets m'amènent également à utiliser **FastAPI, PostgreSQL, Docker et Git**, ainsi que des outils de traitement et de valorisation des données.
+Diplômé d'une licence informatique à l'Université de Toulon, je poursuis actuellement un master à **EPITECH Nancy**, avec une spécialisation en cybersécurité.
 
-Je recherche une **alternance de 12 à 24 mois**, idéalement autour de **Thionville, Metz, Nancy ou Luxembourg**.
+Je m'intéresse particulièrement au développement logiciel, à la sécurité des infrastructures, aux bases de données et à l'administration des systèmes. J'aime concevoir des projets concrets et intégrer les bonnes pratiques de sécurité tout au long du développement.
 
-## 🛠️ Compétences & outils
+<br>
 
-| Domaine | Technologies et outils |
-|---|---|
-| **Programmation** | Python, C, C++, SQL, Bash |
-| **Backend & API** | FastAPI, Flask |
-| **Bases de données** | PostgreSQL, MySQL, modélisation relationnelle, contraintes d'intégrité |
-| **Systèmes & réseaux** | Linux / Unix, Windows, TCP/IP |
-| **Développement & collaboration** | Git, GitHub, VS Code, Docker, Docker Compose |
-| **Données & analyse** | Microsoft Fabric |
-| **Documentation & rédaction technique** | LaTeX, Markdown, Microsoft Word, Microsoft PowerPoint|
-| **En cours d'apprentissage** | React, TypeScript |
+## 🛠️ Compétences techniques
 
-## 🔄 Méthodologies & pratiques professionnelles
+**Langages de programmation**
 
-- **Agile & Scrum :** connaissance des principes Agile et du framework Scrum, travail collaboratif, organisation en sprints et suivi des tâches.
-- **Security by Design :** prise en compte de la sécurité dès la conception des applications.
-- **Shift Left Security :** intégration progressive des préoccupations de sécurité tout au long du développement, plutôt que de les reporter à une phase de vérification finale.
-- **Protection des données :** attention portée à la confidentialité, à l'intégrité et à la disponibilité des données, ainsi qu'aux principes du RGPD.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+
+**Développement Backend & Bases de données**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+
+**Systèmes & Outils**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+**Documentation & Méthodologies**
+
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logo)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
+
+**📚 Technologies en cours d'apprentissage 📚**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+<br>
+
+## 🔐 Sécurité & Bonnes pratiques
+
+- **Security by Design :** intégrer les enjeux de sécurité dès la conception des applications et des systèmes.
+- **Shift Left Security :** prendre en compte la sécurité le plus tôt possible et tout au long du cycle de développement.
+- **Protection des données :** attention portée à la confidentialité, à l'intégrité, à la disponibilité et aux principes du RGPD.
+- **Agile & Scrum :** connaissance des méthodes de développement itératives, du travail collaboratif et de l'organisation en sprints.
 
 J'accorde une importance particulière au développement sécurisé : la protection des données et la sécurité ne doivent pas être considérées comme une étape supplémentaire à effectuer à la fin d'un projet, mais comme des préoccupations permanentes pendant toute sa réalisation.
 
-## 🚀 Projets
+<br>
 
-### 🕒 Time Manager — Application de suivi du temps de travail
+## 🚀 Mes projets
 
-**Projet d'équipe à EPITECH · En développement · Dépôt privé**
+### 🚗 Mobil'Implant – Hackathon EPITECH x Citiz x Microsoft
 
-Conception d'une application web de gestion des équipes et du temps de travail, comprenant le pointage des employés, l'organisation des équipes et la gestion des plannings.
+**Hackathon à EPITECH Nancy · Projet terminé · Prix « Coup de cœur du jury » · Dépôt privé**
 
-**Ma contribution :** conception et modélisation de la base de données PostgreSQL, définition des relations et contraintes d'intégrité, réalisation de tests SQL et participation à la création puis l'intégration du backend avec le frontend.
+Développement en équipe d'un outil d'aide à la décision pour l'implantation de nouvelles stations d'autopartage.
 
-Le projet repose sur une architecture associant notamment **FastAPI, React, PostgreSQL et Docker Compose**, avec une gestion collaborative du développement via Git.
+- Analyse de données géographiques, démographiques et de mobilité de transport.
+- Traitement et intégration des données avec Microsoft Fabric et Python.
+- Développement d'analyses et d'outils d'optimisation en Python pour prioriser les emplacements selon les besoins, la population desservie et le budget disponible.
 
-`PostgreSQL` `SQL` `FastAPI` `React` `Docker` `Python`
+`Python` `Microsoft Fabric` `Analyse de données` `Optimisation` `Git`
 
-### 🏆 Hackathon Mobility — Implantation de stations d'autopartage Citiz
+### 🕒 Time Manager
 
-**Hackathon EPITECH Nancy · Projet terminé · Prix « Coup de cœur du jury » · Dépôt privé**
+**Projet en équipe à EPITECH · Projet en cours · Dépôt privé**
 
-Développement en équipe d'un outil d'aide à la décision pour identifier les emplacements pertinents de nouvelles stations d'autopartage, à partir de données de mobilité et de population.
+Application web de pointage avec gestion des équipes, du temps de travail et des plannings.
 
-**Ma contribution :** préparation, croisement et exploitation de données géographiques, démographiques et de transport avec **Python et Microsoft Fabric**. Le projet intègre une logique d'optimisation tenant compte de la couverture de population, des transports existants et d'un budget d'implantation, ainsi qu'un simulateur réalisé avec **Streamlit**.
+- Conception et modélisation d'une base de données relationnelle.
+- Création du schéma PostgreSQL, des relations et des contraintes d'intégrité.
+- Participation au développement du backend et à son intégration avec le frontend dans un environnement Docker.
 
-`Python` `Microsoft Fabric` `Data Engineering` `Streamlit` `Open Data`
+`Python` `FastAPI` `React` `PostgreSQL` `Docker` `Git`
 
-### 🗺️ Recherche de plus court chemin sur des données cadastrales
+### 🗺️ Cadastre Pathfinding
 
-**Projet Python · Dépôt public**
+Application Python de recherche de chemins à partir de données cadastrales.
 
-Application de recherche et de visualisation d'itinéraires à partir de données cadastrales au format JSON. Traitement des données géométriques, construction d'un graphe, puis calcul d'itinéraires avec les algorithmes **Dijkstra et A\***. Interface interactive réalisée avec **Tkinter**.
+- Traitement de données cadastrales au format JSON.
+- Modélisation de graphes et recherche de chemins.
+- Implémentation des algorithmes de Dijkstra et A*.
 
-`Python` `Algorithmique` `Graphes` `Dijkstra` `A*` `Tkinter`
+[Voir le dépôt GitHub](https://github.com/Calussum/cadastre-pathfinding)
 
-🔗 [Voir le dépôt](https://github.com/Calussum/cadastre-pathfinding)
+`Python` `Théorie des graphes` `Dijkstra` `A*` `Tkinter`
 
-### 🧬 Game of Life — Jeu de la Vie de Conway
+### 🎮 Game of Life
 
-**Projet en C · Dépôt public**
+Implémentation du jeu de la vie de Conway en langage C.
 
-Implémentation du Jeu de la Vie de Conway avec **C et SDL2**. Le programme propose une interface graphique, une configuration de la grille, un placement manuel ou aléatoire des cellules et une simulation sur plusieurs générations.
+[Voir le dépôt GitHub](https://github.com/Calussum/game_of_life)
 
-`C` `SDL2` `SDL2_ttf` `Make` `GCC`
+`C` `SDL2`
 
-🔗 [Voir le dépôt](https://github.com/Calussum/game_of_life)
+<br>
 
 ## 🎯 Ce que je souhaite approfondir
 
@@ -97,12 +135,11 @@ Implémentation du Jeu de la Vie de Conway avec **C et SDL2**. Le programme prop
 - Le **développement backend**, la conception d'API et les architectures applicatives.
 - L'**automatisation**, les environnements Linux et les outils de déploiement.
 
-##
-
+---
+<br>
 <div align="center">
 
 **Merci de votre visite !**
 
-N'hésitez pas à parcourir mes dépôts publics pour découvrir mes réalisations.
-
+  <i>Toujours apprendre, concevoir et progresser.</i>
 </div>
