@@ -95,19 +95,7 @@ Implémentation du Jeu de la Vie de Conway avec **C et SDL2**. Le programme prop
 - Le **développement backend**, la conception d'API et les architectures applicatives.
 - L'**automatisation**, les environnements Linux et les outils de déploiement.
 
-## 📊 Activité GitHub
-
-<div align="center">
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Calussum&show_icons=true&hide_border=true&theme=transparent)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Calussum&layout=compact&hide_border=true&theme=transparent)
-
-</div>
-
-> **Note :** certains projets réalisés dans le cadre de ma formation sont hébergés dans des dépôts privés ou des organisations GitHub. Ils ne sont donc pas tous visibles dans les statistiques publiques ci-dessus.
-
----
+##
 
 <div align="center">
 
